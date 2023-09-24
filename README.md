@@ -3,9 +3,9 @@
 
 
 
-# Getting Started with BMI Calculater App
+# practice App
 
-<a href="https://huzaifanizam.github.io/BMI-CalculaterwithInputandOutput/" target="blank">BMI Calculater App</a>
+<a href="https://huzaifanizam.github.io/BMI-CalculaterwithInputandOutput/" target="blank">Practice</a>
 
 - 📫 How to reach me **nizamhuzaifa@gmail.com**
 
